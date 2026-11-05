@@ -6,7 +6,8 @@ const POEDB_LANGS: Record<Config['language'], string> = {
   'en': 'us',
   'ru': 'ru',
   'cmn-Hant': 'tw',
-  'ko': 'kr'
+  'ko': 'kr',
+  'ja': 'jp'
 }
 
 export function registerActions () {

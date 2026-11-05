@@ -5,6 +5,7 @@ import type { Logger } from './RemoteLogger'
 const PROXY_HOSTS = [
   { host: 'www.pathofexile.com', official: true },
   { host: 'ru.pathofexile.com', official: true },
+  { host: 'jp.pathofexile.com', official: true },
   { host: 'pathofexile.tw', official: true },
   { host: 'poe.kakaogames.com', official: true },
   { host: 'poe.ninja', official: false },
